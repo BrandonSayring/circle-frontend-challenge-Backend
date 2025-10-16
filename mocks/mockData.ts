@@ -51,7 +51,7 @@ const mockData = [
         id: 7,
         title: 'Moby-Dick',
         author: 'Herman Melville',
-        isbn: '9781503280787',
+        isbn: '9781503280786',
         price: 14.99,
         availableStock: 7,
     },
